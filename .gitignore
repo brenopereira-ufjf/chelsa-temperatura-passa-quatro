@@ -1,0 +1,14 @@
+# rasters baixados
+rasters/
+*.tif
+*.tif.aux.xml
+*.crdownload
+
+# R / RStudio
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+
+# arquivos temporários do Excel
+~$*

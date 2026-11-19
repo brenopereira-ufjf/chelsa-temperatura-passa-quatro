@@ -1,0 +1,12 @@
+https://os.zhdk.cloud.switch.ch/chelsav2/GLOBAL/climatologies/2041-2070/IPSL-CM6A-LR/ssp585/tas/CHELSA_ipsl-cm6a-lr_r1i1p1f1_w5e5_ssp585_tas_01_2041_2070_norm.tif
+https://os.zhdk.cloud.switch.ch/chelsav2/GLOBAL/climatologies/2041-2070/IPSL-CM6A-LR/ssp585/tas/CHELSA_ipsl-cm6a-lr_r1i1p1f1_w5e5_ssp585_tas_02_2041_2070_norm.tif
+https://os.zhdk.cloud.switch.ch/chelsav2/GLOBAL/climatologies/2041-2070/IPSL-CM6A-LR/ssp585/tas/CHELSA_ipsl-cm6a-lr_r1i1p1f1_w5e5_ssp585_tas_03_2041_2070_norm.tif
+https://os.zhdk.cloud.switch.ch/chelsav2/GLOBAL/climatologies/2041-2070/IPSL-CM6A-LR/ssp585/tas/CHELSA_ipsl-cm6a-lr_r1i1p1f1_w5e5_ssp585_tas_04_2041_2070_norm.tif
+https://os.zhdk.cloud.switch.ch/chelsav2/GLOBAL/climatologies/2041-2070/IPSL-CM6A-LR/ssp585/tas/CHELSA_ipsl-cm6a-lr_r1i1p1f1_w5e5_ssp585_tas_05_2041_2070_norm.tif
+https://os.zhdk.cloud.switch.ch/chelsav2/GLOBAL/climatologies/2041-2070/IPSL-CM6A-LR/ssp585/tas/CHELSA_ipsl-cm6a-lr_r1i1p1f1_w5e5_ssp585_tas_06_2041_2070_norm.tif
+https://os.zhdk.cloud.switch.ch/chelsav2/GLOBAL/climatologies/2041-2070/IPSL-CM6A-LR/ssp585/tas/CHELSA_ipsl-cm6a-lr_r1i1p1f1_w5e5_ssp585_tas_07_2041_2070_norm.tif
+https://os.zhdk.cloud.switch.ch/chelsav2/GLOBAL/climatologies/2041-2070/IPSL-CM6A-LR/ssp585/tas/CHELSA_ipsl-cm6a-lr_r1i1p1f1_w5e5_ssp585_tas_08_2041_2070_norm.tif
+https://os.zhdk.cloud.switch.ch/chelsav2/GLOBAL/climatologies/2041-2070/IPSL-CM6A-LR/ssp585/tas/CHELSA_ipsl-cm6a-lr_r1i1p1f1_w5e5_ssp585_tas_09_2041_2070_norm.tif
+https://os.zhdk.cloud.switch.ch/chelsav2/GLOBAL/climatologies/2041-2070/IPSL-CM6A-LR/ssp585/tas/CHELSA_ipsl-cm6a-lr_r1i1p1f1_w5e5_ssp585_tas_10_2041_2070_norm.tif
+https://os.zhdk.cloud.switch.ch/chelsav2/GLOBAL/climatologies/2041-2070/IPSL-CM6A-LR/ssp585/tas/CHELSA_ipsl-cm6a-lr_r1i1p1f1_w5e5_ssp585_tas_11_2041_2070_norm.tif
+https://os.zhdk.cloud.switch.ch/chelsav2/GLOBAL/climatologies/2041-2070/IPSL-CM6A-LR/ssp585/tas/CHELSA_ipsl-cm6a-lr_r1i1p1f1_w5e5_ssp585_tas_12_2041_2070_norm.tif
